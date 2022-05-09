@@ -5,17 +5,18 @@
 }
 
 body {
-    background-color: white;
+    background-color: #d9dcd6;
+    ;
 }
 
 header {
     padding: 20px;
-    background-color: rgb(73, 178, 213);
-    font-family: Arial, Helvetica, sans-serif;
+    background-color: #2a607c;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 header h1 {
-    color: white;
+    color: #d9dcd6;
     font-size: 50px;
     font-weight: bold;
     margin: 0;
@@ -37,7 +38,7 @@ header nav ul li a {
     font-weight: lighter;
     font-size: 22px;
     text-decoration: none;
-    color: white; 
+    color: #ffffff;
 }
 
 /* Hero Style Start */
@@ -72,26 +73,26 @@ p {
 
 .comfort {
     padding: 20px;
-    background-color: rgb(73, 178, 213);
+    background-color: #2589bd;
     margin-right: 20px;
     float: right;
     width: 20%;
     height: 100% ;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 .comfort-lead {
-    color: white;
+    color: #ffffff;
     margin-bottom: 30px;
 }
 
 .comfort-brand {
-    color: white;
+    color: #ffffff;
     margin-bottom: 30px;
 }
 
 .comfort-cost {
-    color: white;
+    color: #ffffff;
     margin-bottom: 30px;
 }
 
@@ -146,30 +147,30 @@ p {
 
 
 .seo {
-    font-family: Arial, Helvetica, sans-serif;
-    background-color: #045097;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
     padding: 60px;
     height: 350px;
     margin-bottom: 20px;
-    color: white;
+    color: #ffffff;
 }
 
 .online {
-    font-family: Arial, Helvetica, sans-serif;
-    background-color: #045097;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
     padding: 60px;
     height: 350px;
     margin-bottom: 20px;
-    color: white;
+    color: #ffffff;
 }
 
 .social-media {
-    font-family: Arial, Helvetica, sans-serif;
-    background-color: #045097;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
     padding: 60px;
     height: 350px;
     margin-bottom: 20px;
-    color: white;
+    color: #ffffff;
 }
 
 .seo h2 {
@@ -185,4 +186,20 @@ p {
 .social-media h2 {
     margin-bottom: 20px;
     font-size: 36px;
+}
+
+footer {
+    padding: 40px 35px;
+    width: 100%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+footer h2 {
+    font-size: 20px;
+    margin: 0;
+    text-align: center;
+}
+
+footer p {
+    text-align: center;
 }
