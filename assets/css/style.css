@@ -79,52 +79,17 @@ p {
     width: 20%;
     height: 100% ;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-}
-
-.comfort-lead {
     color: #ffffff;
     margin-bottom: 30px;
 }
 
-.comfort-brand {
-    color: #ffffff;
-    margin-bottom: 30px;
-}
-
-.comfort-cost {
-    color: #ffffff;
-    margin-bottom: 30px;
-}
-
-.comfort-lead img {
+.comfort img {
     margin: 10px auto;
     max-width: 150px;
     display: block;
 }
 
-.comfort-brand img {
-    margin: 10px auto;
-    max-width: 150px;
-    display: block;
-}
-
-.comfort-cost img {
-    margin: 10px auto;
-    max-width: 150px;
-    display: block;
-}
-
-.comfort-lead h3 {
-    text-align: center;
-    margin-bottom: 10px;
-}
-
-.comfort-brand h3 {
-    text-align: center;
-    margin-bottom: 10px;
-}
-
-.comfort-cost h3 {
+.comfort h3 {
     text-align: center;
     margin-bottom: 10px;
 }
@@ -146,7 +111,7 @@ p {
 }
 
 
-.seo {
+.content div {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     padding: 60px;
@@ -155,35 +120,7 @@ p {
     color: #ffffff;
 }
 
-.online {
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    padding: 60px;
-    height: 350px;
-    margin-bottom: 20px;
-    color: #ffffff;
-}
-
-.social-media {
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    padding: 60px;
-    height: 350px;
-    margin-bottom: 20px;
-    color: #ffffff;
-}
-
-.seo h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.online h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media h2 {
+.content h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
